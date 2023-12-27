@@ -1,7 +1,7 @@
 # django-awesome
 ## Admin
 - <https://github.com/sehmaschine/django-grappelli> django-grappelli - A jazzy skin for the admin. star:3527 forks:656 open_issues:12 last_modified:Tue, 26 Dec 2023 08:30:11 GMT 
-- <https://github.com/farridav/django-jazzmin> django-jazzmin - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy. [![Generic badge](https://img.shields.io/badge/star-1394-<blue>.svg)](https://italents.net/)1394 forks:231 open_issues:123 last_modified:Tue, 26 Dec 2023 21:58:15 GMT 
+- <https://github.com/farridav/django-jazzmin> django-jazzmin - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy. [![Generic badge](https://img.shields.io/badge/star-1394-blue.svg)](https://italents.net/)1394 forks:231 open_issues:123 last_modified:Tue, 26 Dec 2023 21:58:15 GMT 
 - <https://github.com/arteria/django-hijack> django-hijack - Admins can log in and work on behalf of other users without having to know their credentials. star:1380 forks:164 open_issues:7 last_modified:Tue, 26 Dec 2023 04:41:01 GMT 
 - <https://github.com/django-import-export/django-import-export> django-import-export - Django application and library for importing and exporting data with admin integration. star:2795 forks:771 open_issues:37 last_modified:Wed, 27 Dec 2023 10:13:10 GMT 
 - <https://github.com/dmpayton/django-admin-honeypot> django-admin-honeypot - Configure a honeypot to see who's trying to hack your site. star:977 forks:173 open_issues:18 last_modified:Tue, 26 Dec 2023 12:15:23 GMT 
